@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PayPalPaymentIntegrationExample</string>
+
+    <string name="pay_for_product">Pay for Product</string>
+</resources>
